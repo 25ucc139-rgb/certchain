@@ -1,0 +1,115 @@
+- **2026-05-02**: chore: initialize certchain hardhat typescript monorepo
+- **2026-05-03**: feat(config): configure hardhat network, solc 0.8.24, and oxlint
+- **2026-05-05**: feat(contracts): design CertificateRegistry.sol soulbound token standard
+- **2026-05-05**: feat(contracts): add institution role management and verification whitelist
+- **2026-05-07**: feat(contracts): implement certificate issuance with student hash mapping
+- **2026-05-17**: feat(contracts): add certificate revocation logic with reason codes
+- **2026-05-18**: test(contracts): write unit tests for contract deployment and owner role
+- **2026-05-19**: test(contracts): test batch certificate issuance and gas consumption
+- **2026-05-20**: test(contracts): verify soulbound transfer restriction prevents transfer
+- **2026-05-20**: test(contracts): verify unauthorized caller cannot issue certificates
+- **2026-05-25**: feat(scripts): add automated local hardhat deployment script
+- **2026-05-26**: feat(ipfs): add utility module for pinning certificate metadata to IPFS
+- **2026-05-31**: docs: create smart contract specification and technical architecture
+- **2026-06-01**: feat(frontend): initialize react frontend with vite and typescript
+- **2026-06-05**: feat(frontend): setup modern glassmorphism styling and dark theme
+- **2026-06-22**: feat(web3): integrate ethers v6 provider and metamask account connection
+- **2026-06-22**: feat(ui): design certificate verification search bar with hash lookup
+- **2026-06-22**: feat(ui): build interactive certificate renderer card with golden seal
+- **2026-06-24**: feat(qr): add QR code generation for instant certificate verification
+- **2026-06-28**: feat(issuer): create institute portal for single certificate issuance
+- **2026-07-01**: feat(issuer): add CSV file upload parser for batch student certificate creation
+- **2026-07-04**: fix(contracts): optimize certificate struct storage to minimize gas fee
+- **2026-07-05**: test: add integration test suite simulating full issuance and verification
+- **2026-07-06**: feat(ui): add animated verification checkmark and authenticity badge
+- **2026-07-11**: feat(ui): display issuer institution details and timestamp provenance
+- **2026-07-11**: refactor(web3): extract contract interaction logic into custom react hooks
+- **2026-07-16**: feat(ui): add PDF download of verified certificate with tamper-proof seal
+- **2026-07-17**: docs: document IPFS metadata schema standard and validation rules
+- **2026-07-23**: ci: configure GitHub Actions workflow for hardhat compilation and testing
+- **2026-07-24**: feat(contracts): add expiration date and status check functions
+- **2026-07-25**: test: verify expired certificate status returns invalid in tests
+- **2026-07-25**: fix(frontend): handle network switching to supported testnet chains
+- **2026-07-27**: feat(ui): add toast notification system for transaction lifecycle
+- **2026-07-28**: perf(frontend): cache verified certificates in IndexedDB for fast replay
+- **2026-08-03**: feat(ui): add revoke certificate modal for authorized institution admin
+- **2026-08-06**: test(contracts): test certificate revocation and event emission
+- **2026-08-23**: docs: add institutional onboarding guide and API documentation
+- **2026-08-24**: feat(security): implement reentrancy guards and input sanitization
+- **2026-08-24**: feat(frontend): add student public profile showcasing verified credentials
+- **2026-09-01**: style(ui): polish modal transitions and certificate hover tilt effect
+- **2026-09-04**: fix: resolve gas estimation failure during bulk issuance transactions
+- **2026-09-04**: test: add stress test simulating 100 simultaneous certificate lookups
+- **2026-09-05**: feat(contracts): add pause mechanism for emergency contract maintenance
+- **2026-09-07**: docs: write security model whitepaper and soulbound design rationale
+- **2026-09-09**: ci: add automated oxlint and typescript type check to CI workflow
+- **2026-09-10**: feat(ui): add copy shareable public verification link with one click
+- **2026-09-11**: refactor: clean up contract artifacts and optimize package dependencies
+- **2026-09-14**: feat(frontend): add offline fallback verification using cached signatures
+- **2026-09-15**: perf: lazy load heavy PDF generation and QR scanner libraries
+- **2026-09-17**: test: verify all smart contract revert strings and custom errors
+- **2026-10-01**: docs: publish complete setup walkthrough and smart contract addresses
+- **2026-10-08**: feat(ui): add multi-language support (English / Spanish / Hindi)
+- **2026-10-10**: fix: patch mobile camera permission handling in QR scanner view
+- **2026-10-17**: style: refine responsive layout for tablets and small mobile displays
+- **2026-10-17**: docs: add contributing guidelines and developer code of conduct
+- **2026-10-21**: refactor: final code formatting, documentation comments, and cleanup
+- **2026-10-26**: chore: tag v1.0.0 production launch release for CertChain
+- **2026-05-03**: chore: initialize certchain hardhat typescript monorepo
+- **2026-05-03**: feat(config): configure hardhat network, solc 0.8.24, and oxlint
+- **2026-05-07**: feat(contracts): design CertificateRegistry.sol soulbound token standard
+- **2026-05-07**: feat(contracts): add institution role management and verification whitelist
+- **2026-05-10**: feat(contracts): implement certificate issuance with student hash mapping
+- **2026-05-11**: feat(contracts): add certificate revocation logic with reason codes
+- **2026-05-15**: test(contracts): write unit tests for contract deployment and owner role
+- **2026-05-18**: test(contracts): test batch certificate issuance and gas consumption
+- **2026-05-18**: test(contracts): verify soulbound transfer restriction prevents transfer
+- **2026-05-22**: test(contracts): verify unauthorized caller cannot issue certificates
+- **2026-05-28**: feat(scripts): add automated local hardhat deployment script
+- **2026-05-30**: feat(ipfs): add utility module for pinning certificate metadata to IPFS
+- **2026-06-13**: docs: create smart contract specification and technical architecture
+- **2026-06-13**: feat(frontend): initialize react frontend with vite and typescript
+- **2026-06-14**: feat(frontend): setup modern glassmorphism styling and dark theme
+- **2026-06-14**: feat(web3): integrate ethers v6 provider and metamask account connection
+- **2026-06-18**: feat(ui): design certificate verification search bar with hash lookup
+- **2026-06-18**: feat(ui): build interactive certificate renderer card with golden seal
+- **2026-06-23**: feat(qr): add QR code generation for instant certificate verification
+- **2026-06-23**: feat(issuer): create institute portal for single certificate issuance
+- **2026-06-24**: feat(issuer): add CSV file upload parser for batch student certificate creation
+- **2026-06-24**: fix(contracts): optimize certificate struct storage to minimize gas fee
+- **2026-06-25**: test: add integration test suite simulating full issuance and verification
+- **2026-06-27**: feat(ui): add animated verification checkmark and authenticity badge
+- **2026-07-01**: feat(ui): display issuer institution details and timestamp provenance
+- **2026-07-01**: refactor(web3): extract contract interaction logic into custom react hooks
+- **2026-07-04**: feat(ui): add PDF download of verified certificate with tamper-proof seal
+- **2026-07-04**: docs: document IPFS metadata schema standard and validation rules
+- **2026-07-05**: ci: configure GitHub Actions workflow for hardhat compilation and testing
+- **2026-07-06**: feat(contracts): add expiration date and status check functions
+- **2026-07-10**: test: verify expired certificate status returns invalid in tests
+- **2026-07-14**: fix(frontend): handle network switching to supported testnet chains
+- **2026-07-15**: feat(ui): add toast notification system for transaction lifecycle
+- **2026-07-25**: perf(frontend): cache verified certificates in IndexedDB for fast replay
+- **2026-08-01**: feat(ui): add revoke certificate modal for authorized institution admin
+- **2026-08-01**: test(contracts): test certificate revocation and event emission
+- **2026-08-15**: docs: add institutional onboarding guide and API documentation
+- **2026-08-16**: feat(security): implement reentrancy guards and input sanitization
+- **2026-08-24**: feat(frontend): add student public profile showcasing verified credentials
+- **2026-09-21**: style(ui): polish modal transitions and certificate hover tilt effect
+- **2026-09-22**: fix: resolve gas estimation failure during bulk issuance transactions
+- **2026-09-23**: test: add stress test simulating 100 simultaneous certificate lookups
+- **2026-09-25**: feat(contracts): add pause mechanism for emergency contract maintenance
+- **2026-09-26**: docs: write security model whitepaper and soulbound design rationale
+- **2026-09-30**: ci: add automated oxlint and typescript type check to CI workflow
+- **2026-10-05**: feat(ui): add copy shareable public verification link with one click
+- **2026-10-08**: refactor: clean up contract artifacts and optimize package dependencies
+- **2026-10-11**: feat(frontend): add offline fallback verification using cached signatures
+- **2026-10-11**: perf: lazy load heavy PDF generation and QR scanner libraries
+- **2026-10-14**: test: verify all smart contract revert strings and custom errors
+- **2026-10-14**: docs: publish complete setup walkthrough and smart contract addresses
+- **2026-10-16**: feat(ui): add multi-language support (English / Spanish / Hindi)
+- **2026-10-17**: fix: patch mobile camera permission handling in QR scanner view
+- **2026-10-19**: style: refine responsive layout for tablets and small mobile displays
+- **2026-10-19**: docs: add contributing guidelines and developer code of conduct
+- **2026-10-20**: refactor: final code formatting, documentation comments, and cleanup
+- **2026-10-22**: chore: tag v1.0.0 production launch release for CertChain
+- **2026-05-03**: chore: initialize certchain hardhat typescript monorepo
