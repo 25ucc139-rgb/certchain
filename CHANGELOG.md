@@ -112,5 +112,4 @@
 - **2026-10-19**: docs: add contributing guidelines and developer code of conduct
 - **2026-10-20**: refactor: final code formatting, documentation comments, and cleanup
 - **2026-10-22**: chore: tag v1.0.0 production launch release for CertChain
-- **2026-05-03**: chore: initialize certchain hardhat typescript monorepo
-- **2026-05-04**: feat(config): configure hardhat network, solc 0.8.24, and oxlint
+- **2026-05-04**: feat(contracts): design CertificateRegistry.sol soulbound token standard
