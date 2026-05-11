@@ -114,3 +114,4 @@
 - **2026-10-22**: chore: tag v1.0.0 production launch release for CertChain
 - **2026-05-04**: feat(contracts): design CertificateRegistry.sol soulbound token standard
 - **2026-05-08**: feat(contracts): add institution role management and verification whitelist
+- **2026-05-11**: feat(contracts): implement certificate issuance with student hash mapping
