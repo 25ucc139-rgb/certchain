@@ -117,3 +117,4 @@
 - **2026-05-11**: feat(contracts): implement certificate issuance with student hash mapping
 - **2026-05-15**: feat(contracts): add certificate revocation logic with reason codes
 - **2026-05-23**: test(contracts): write unit tests for contract deployment and owner role
+- **2026-05-24**: test(contracts): test batch certificate issuance and gas consumption
