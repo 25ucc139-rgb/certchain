@@ -119,3 +119,4 @@
 - **2026-05-23**: test(contracts): write unit tests for contract deployment and owner role
 - **2026-05-24**: test(contracts): test batch certificate issuance and gas consumption
 - **2026-05-28**: test(contracts): verify soulbound transfer restriction prevents transfer
+- **2026-06-01**: test(contracts): verify unauthorized caller cannot issue certificates
