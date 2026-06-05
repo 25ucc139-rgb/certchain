@@ -120,3 +120,4 @@
 - **2026-05-24**: test(contracts): test batch certificate issuance and gas consumption
 - **2026-05-28**: test(contracts): verify soulbound transfer restriction prevents transfer
 - **2026-06-01**: test(contracts): verify unauthorized caller cannot issue certificates
+- **2026-06-05**: feat(scripts): add automated local hardhat deployment script
