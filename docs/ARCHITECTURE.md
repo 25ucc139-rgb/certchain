@@ -10,3 +10,5 @@ Updated on May 31, 2026 by Chetanay agarwal.
 - Purpose: docs: create smart contract specification and technical architecture
 
 <!-- Revision: 2026-06-13 - docs: create smart contract specification and technical architecture -->
+
+<!-- Revision: 2026-06-08 - docs: create smart contract specification and technical architecture -->
