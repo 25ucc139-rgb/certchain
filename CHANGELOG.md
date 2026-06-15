@@ -125,3 +125,4 @@
 - **2026-06-08**: docs: create smart contract specification and technical architecture
 - **2026-06-09**: feat(frontend): initialize react frontend with vite and typescript
 - **2026-06-11**: feat(frontend): setup modern glassmorphism styling and dark theme
+- **2026-06-15**: feat(web3): integrate ethers v6 provider and metamask account connection
