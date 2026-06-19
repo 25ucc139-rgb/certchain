@@ -128,3 +128,4 @@
 - **2026-06-15**: feat(web3): integrate ethers v6 provider and metamask account connection
 - **2026-06-16**: feat(ui): design certificate verification search bar with hash lookup
 - **2026-06-18**: feat(ui): build interactive certificate renderer card with golden seal
+- **2026-06-19**: feat(qr): add QR code generation for instant certificate verification
