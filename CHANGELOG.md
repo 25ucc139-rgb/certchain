@@ -130,3 +130,4 @@
 - **2026-06-18**: feat(ui): build interactive certificate renderer card with golden seal
 - **2026-06-19**: feat(qr): add QR code generation for instant certificate verification
 - **2026-06-20**: feat(issuer): create institute portal for single certificate issuance
+- **2026-06-27**: feat(issuer): add CSV file upload parser for batch student certificate creation
