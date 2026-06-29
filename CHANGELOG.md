@@ -132,3 +132,4 @@
 - **2026-06-20**: feat(issuer): create institute portal for single certificate issuance
 - **2026-06-27**: feat(issuer): add CSV file upload parser for batch student certificate creation
 - **2026-06-28**: fix(contracts): optimize certificate struct storage to minimize gas fee
+- **2026-06-29**: test: add integration test suite simulating full issuance and verification
