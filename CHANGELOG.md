@@ -134,3 +134,4 @@
 - **2026-06-28**: fix(contracts): optimize certificate struct storage to minimize gas fee
 - **2026-06-29**: test: add integration test suite simulating full issuance and verification
 - **2026-07-05**: feat(ui): add animated verification checkmark and authenticity badge
+- **2026-07-10**: feat(ui): display issuer institution details and timestamp provenance
