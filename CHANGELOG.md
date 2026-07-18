@@ -136,3 +136,4 @@
 - **2026-07-05**: feat(ui): add animated verification checkmark and authenticity badge
 - **2026-07-10**: feat(ui): display issuer institution details and timestamp provenance
 - **2026-07-11**: refactor(web3): extract contract interaction logic into custom react hooks
+- **2026-07-18**: feat(ui): add PDF download of verified certificate with tamper-proof seal
