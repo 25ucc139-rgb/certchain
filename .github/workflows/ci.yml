@@ -1,0 +1,10 @@
+# ci.yml
+
+Generated as part of certchain architecture.
+
+Updated on July 26, 2026 by Chetanay agarwal.
+
+### Details
+
+- Component: `.github/workflows/ci.yml`
+- Purpose: ci: configure GitHub Actions workflow for hardhat compilation and testing
