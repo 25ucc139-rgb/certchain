@@ -139,3 +139,4 @@
 - **2026-07-18**: feat(ui): add PDF download of verified certificate with tamper-proof seal
 - **2026-07-21**: docs: document IPFS metadata schema standard and validation rules
 - **2026-07-26**: ci: configure GitHub Actions workflow for hardhat compilation and testing
+- **2026-07-26**: feat(contracts): add expiration date and status check functions
