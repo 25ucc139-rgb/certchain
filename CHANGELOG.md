@@ -140,3 +140,4 @@
 - **2026-07-21**: docs: document IPFS metadata schema standard and validation rules
 - **2026-07-26**: ci: configure GitHub Actions workflow for hardhat compilation and testing
 - **2026-07-26**: feat(contracts): add expiration date and status check functions
+- **2026-08-03**: test: verify expired certificate status returns invalid in tests
