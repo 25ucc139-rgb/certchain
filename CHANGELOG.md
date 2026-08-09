@@ -143,3 +143,4 @@
 - **2026-08-03**: test: verify expired certificate status returns invalid in tests
 - **2026-08-03**: fix(frontend): handle network switching to supported testnet chains
 - **2026-08-05**: feat(ui): add toast notification system for transaction lifecycle
+- **2026-08-09**: perf(frontend): cache verified certificates in IndexedDB for fast replay
