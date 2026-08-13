@@ -145,3 +145,4 @@
 - **2026-08-05**: feat(ui): add toast notification system for transaction lifecycle
 - **2026-08-09**: perf(frontend): cache verified certificates in IndexedDB for fast replay
 - **2026-08-13**: feat(ui): add revoke certificate modal for authorized institution admin
+- **2026-08-13**: test(contracts): test certificate revocation and event emission
