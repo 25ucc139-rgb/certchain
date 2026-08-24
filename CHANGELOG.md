@@ -148,3 +148,4 @@
 - **2026-08-13**: test(contracts): test certificate revocation and event emission
 - **2026-08-14**: docs: add institutional onboarding guide and API documentation
 - **2026-08-24**: feat(security): implement reentrancy guards and input sanitization
+- **2026-08-24**: feat(frontend): add student public profile showcasing verified credentials
