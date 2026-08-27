@@ -149,3 +149,4 @@
 - **2026-08-14**: docs: add institutional onboarding guide and API documentation
 - **2026-08-24**: feat(security): implement reentrancy guards and input sanitization
 - **2026-08-24**: feat(frontend): add student public profile showcasing verified credentials
+- **2026-08-27**: style(ui): polish modal transitions and certificate hover tilt effect
