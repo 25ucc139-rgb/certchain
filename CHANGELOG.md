@@ -151,3 +151,4 @@
 - **2026-08-24**: feat(frontend): add student public profile showcasing verified credentials
 - **2026-08-27**: style(ui): polish modal transitions and certificate hover tilt effect
 - **2026-09-01**: fix: resolve gas estimation failure during bulk issuance transactions
+- **2026-09-04**: test: add stress test simulating 100 simultaneous certificate lookups
