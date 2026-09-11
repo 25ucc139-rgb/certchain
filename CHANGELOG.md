@@ -154,3 +154,4 @@
 - **2026-09-04**: test: add stress test simulating 100 simultaneous certificate lookups
 - **2026-09-10**: feat(contracts): add pause mechanism for emergency contract maintenance
 - **2026-09-10**: docs: write security model whitepaper and soulbound design rationale
+- **2026-09-11**: ci: add automated oxlint and typescript type check to CI workflow
