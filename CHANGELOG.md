@@ -157,3 +157,4 @@
 - **2026-09-11**: ci: add automated oxlint and typescript type check to CI workflow
 - **2026-09-12**: feat(ui): add copy shareable public verification link with one click
 - **2026-09-13**: refactor: clean up contract artifacts and optimize package dependencies
+- **2026-09-25**: feat(frontend): add offline fallback verification using cached signatures
