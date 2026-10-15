@@ -159,3 +159,4 @@
 - **2026-09-13**: refactor: clean up contract artifacts and optimize package dependencies
 - **2026-09-25**: feat(frontend): add offline fallback verification using cached signatures
 - **2026-09-29**: perf: lazy load heavy PDF generation and QR scanner libraries
+- **2026-10-15**: test: verify all smart contract revert strings and custom errors
