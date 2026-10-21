@@ -161,3 +161,4 @@
 - **2026-09-29**: perf: lazy load heavy PDF generation and QR scanner libraries
 - **2026-10-15**: test: verify all smart contract revert strings and custom errors
 - **2026-10-19**: docs: publish complete setup walkthrough and smart contract addresses
+- **2026-10-21**: feat(ui): add multi-language support (English / Spanish / Hindi)
