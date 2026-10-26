@@ -32,3 +32,5 @@ If you are developing a production application, we recommend enabling type-aware
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
 
 <!-- Revision: 2026-10-22 - chore: tag v1.0.0 production launch release for CertChain -->
+
+<!-- Revision: 2026-10-26 - chore: tag v1.0.0 production launch release for CertChain -->
